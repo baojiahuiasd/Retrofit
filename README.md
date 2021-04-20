@@ -1,6 +1,6 @@
 #  Retrofit
-项目位置 lib文件夹
-使用案例
+项目位置 lib文件夹  
+使用案例  
  Retrofit build = new Retrofit.Builder()
                 .setOkHttpClient(new OkHttpClient())         传入okhttp
                 .setCallAdapter(new RxJavaCallAdapter())     传入请求处理器
