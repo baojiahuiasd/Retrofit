@@ -1,6 +1,6 @@
-# Retrofit
+#  Retrofit
 项目位置 lib文件夹
-lib/src/main/java/com.tiger.lib/mian是使用案例
+# 使用案例
 
  Retrofit build = new Retrofit.Builder()
                 .setOkHttpClient(new OkHttpClient())         传入okhttp
